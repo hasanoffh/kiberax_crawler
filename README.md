@@ -47,7 +47,7 @@ python3 -m pip install -r requirements.txt
 Clone the repository and enter the project folder:
 
 ```bash
-git clone https://github.com/<username>/kiberax_crawler.git
+git clone https://github.com/hasanoffh/kiberax_crawler.git
 cd kiberax_crawler
 ```
 
