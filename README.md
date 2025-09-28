@@ -29,9 +29,9 @@ The tool is written in Python and performs parallel scanning using asynchronous 
   - requests
 
 To install packages on Linux:
-\`\`\`bash
+```bash
 python3 -m pip install -r requirements.txt
-\`\`\`
+```
 
 ## Table of Contents
 
