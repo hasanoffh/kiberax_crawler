@@ -32,3 +32,50 @@ To install packages on Linux:
 \`\`\`bash
 python3 -m pip install -r requirements.txt
 \`\`\`
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Interactive](#interactive)
+- [Contact / Author](#contact--author)
+
+---
+
+## Installation
+
+Clone the repository and enter the project folder:
+
+```bash
+git clone https://github.com/<username>/kiberax_crawler.git
+cd kiberax_crawler
+```
+
+Create and activate a Python virtual environment, then install dependencies:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+```
+
+---
+
+## Usage
+
+### Interactive
+
+Run the crawler in interactive mode (it will prompt for the target URL):
+
+```bash
+python3 crawler.py
+# When prompted, enter the target URL, e.g. https://example.com
+```
+
+---
+
+## Contact / Author
+
+Project maintained by: **KiberAx / Ilgar Hasanof**
+
+If you have questions or feature requests, please open an issue in this repository.
